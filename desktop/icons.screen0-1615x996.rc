@@ -1,6 +1,10 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
+[SAMSUNG Android]
+row=3
+col=0
+
 [Trash]
 row=1
 col=0
